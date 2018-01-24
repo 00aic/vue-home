@@ -2,11 +2,11 @@
 
 >技术点 
 
-用vue社区提供的API，基于vue+vue-cli+vue-router+axios+webpack开发的vue社区webapp
+用vue社区提供的API，基于vue+vue-cli+vue-router+axios+webpack开发的vue社区 SPA
 
 UI用Muse-UI
 
-css用scss，flex布局，rem做移动端适配，最终效果web端移动端都适配。
+css用scss，flex布局，rem做移动端适配，最终效果pc端移动端都适配。
 
 用localStorage做缓存
 
