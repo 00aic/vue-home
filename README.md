@@ -14,7 +14,7 @@ css用scss，flex布局，rem做移动端适配，最终效果pc端移动端都�
 
 > 建议先去社区[注册](https://www.vue-js.com/signup)拿accesstoken登录体验(注册可以直接用github账号，挺快的)
 
-[demo]( http://aermin.github.io/IFE-/)
+[demo](http://aermin.github.io/vue-home/dist/)
 
 [点击查看gif动图展示](http://ooytyiziz.bkt.clouddn.com/vue-home.gif)
 
