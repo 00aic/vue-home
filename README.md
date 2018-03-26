@@ -10,17 +10,17 @@ css用scss，flex布局，rem做移动端适配，最终效果pc端移动端都�
 
 用localStorage做缓存
 
->通过这项目学习了很多东西，如果对您有帮助，请给萌新一个`star`👍以资鼓励，一起加油^ ^
+> 如果对您有帮助，请给萌新一个`star`👍以资鼓励，一起加油^ ^
 
 > 建议先去社区[注册](https://www.vue-js.com/signup)拿accesstoken登录体验(注册可以直接用github账号，挺快的)
 
-[demo](http://www.hxvin.me/vue-home/dist/)
+[demo]( http://aermin.github.io/IFE-/)
 
 [点击查看gif动图展示](http://ooytyiziz.bkt.clouddn.com/vue-home.gif)
 
 [项目API](https://www.vue-js.com/api/)
 ### 手机扫描查看效果
-![手机扫描查看效果](https://github.com/Hxvin/vue-home/blob/master/src/assets/1495982696.png)
+![手机扫描查看效果](https://github.com/aermin/vue-home/blob/master/src/assets/1495982696.png)
 
 > 完成功能
 
@@ -38,11 +38,6 @@ css用scss，flex布局，rem做移动端适配，最终效果pc端移动端都�
 - [x] 回复评论
 - [x] 发布主题（支持markdown编辑且可预览）
 
-> todo功能
-- [ ] 左右侧滑
-- [ ] 搜索功能
-- [ ] 手机横竖屏
-- [ ] vuex重构
 
 ### 安装运行
 
@@ -61,7 +56,7 @@ npm run build --report
 ```
 * 注意`npm run dev` 之后 默认浏览器打开的是http://localhost:8080  请换成http://localhost:8080/vue-home/dist
 
-> 以下是我总结下的项目经验和遇到的坑（未完待续），大家一起爬坑😀
+> 以下是我总结下的项目经验和遇到的坑，大家一起爬坑😀
 
 
 ### 准备开发环境
